@@ -14,6 +14,7 @@ const nameChanges = {
     "velvet-cake": "Red Velvet Cake",
     "chocolate-cake": "Chocolate Cake",
     "bbq": "BBQ",
+    "iced-tea": "Iced Tea",
 };
 
 document.addEventListener("DOMContentLoaded", function() {
